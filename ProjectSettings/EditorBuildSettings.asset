@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/scene_home.unity
+    guid: e37ea5484f7181646808a3f2aa9fcb3f
+  - enabled: 1
+    path: Assets/Scenes/scene_sign_up.unity
+    guid: 8f6aaa72d2e98b94c9cf9dab19d149d0
+  - enabled: 1
+    path: Assets/Scenes/scene_login.unity
+    guid: 05a82cb63bc295543b7f04b122dba674
+  - enabled: 1
+    path: Assets/Scenes/scene_browse.unity
+    guid: 11ba0bd6b33ddcc4ca408758b2bf64df
+  - enabled: 1
+    path: Assets/Scenes/scene_my_account.unity
+    guid: f2ad801b137c4544eb91ab145e79545b
+  - enabled: 1
+    path: Assets/Scenes/scene_edit_profile.unity
+    guid: a6a03f8d10204f443a1b67c944b88c73
+  - enabled: 1
+    path: Assets/Scenes/scene_settings.unity
+    guid: 274173ce80cf3c14a9f3ab7b09ea3ad6
+  - enabled: 1
+    path: Assets/Scenes/scene_help_centre.unity
+    guid: 13a78af40ffd4ba4c8fda32666a54c1f
+  - enabled: 1
+    path: Assets/Scenes/scene_web_view.unity
+    guid: d917ba68909588642aef4feeab37e7c5
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed.unity
+    guid: 48efd3238c721184c836f4c93df906a7
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_consultation.unity
+    guid: 55f66dbb133d1c5438d3a549885ecbf7
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_marketing.unity
+    guid: 37f7977126ab8d24091b7b5793e3b656
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_software.unity
+    guid: d1eece0a3c0680b48a1b7fd9b32f881c
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_software_customshopsystem.unity
+    guid: 38563f958b4091049a9bf26fc0126e07
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_software_officesystem.unity
+    guid: 4de3de368eafb2444b28f92c6ccc0ce1
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_software_othersystem.unity
+    guid: 9d7d2ba56db93d84f8da8d225e07cf3a
+  - enabled: 1
+    path: Assets/Scenes/scene_whatsyourneed_webdevelopment.unity
+    guid: 71ed0e5a292830f49b3b853c16a96437
+  - enabled: 1
+    path: Assets/Scenes/scene_detail_product_desktop.unity
+    guid: 01b4c52cc7a8d78469cb554d84e5183d
+  - enabled: 1
+    path: Assets/Scenes/scene_detail_product_handphone.unity
+    guid: 92208d7d6e705834c9421136103258f9
+  - enabled: 1
+    path: Assets/Scenes/scene_detail_product_laptop.unity
+    guid: 60c389774de472a49b8d51aea16de4d1
+  - enabled: 1
+    path: Assets/Scenes/scene_detail_product_other.unity
+    guid: b1ac03a3c8b77674a87ec132c1197934
+  - enabled: 1
+    path: Assets/Scenes/scene_detail_product_vr.unity
+    guid: fbcf0efe322e72e42ba5d0f9edd6b46e
